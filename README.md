@@ -1,25 +1,40 @@
-# Portfólio Front-end - Allan Douglas
+# Portfólio Front-end – Allan Douglas
 
-Portfólio pessoal desenvolvido com **HTML, CSS e JavaScript**, com foco em **usabilidade, design e responsividade**.  
-Inclui projetos práticos de Front-end para estudo e demonstração de habilidades de desenvolvimento web.
+🔗 **Acesse o site do portfólio:**  
+https://allan-carneiro.github.io/portfolio-frontend/
 
-## Projetos incluídos
+Portfólio pessoal desenvolvido com **HTML, CSS e JavaScript**, com foco em **responsividade, organização de código e boas práticas de front-end**.
 
-- **Quiz Interativo em JavaScript** – teste seus conhecimentos com um quiz dinâmico.  
-- **Simulador de Loja Online** – simulação de carrinho de compras com produtos.  
-- **Sistema de Cadastro de Alunos (CRUD)** – cadastro, edição e exclusão de registros de alunos.
+Este projeto reúne aplicações práticas criadas para estudo e consolidação de lógica de programação, manipulação do DOM e versionamento com Git/GitHub.
 
-## Tecnologias
+---
+
+## 📂 Projetos incluídos
+
+- **Quiz Interativo em JavaScript**  
+  Aplicação com perguntas de múltipla escolha, feedback visual, contagem de acertos e reinício.
+
+- **Simulador de Loja Online**  
+  Simulação de e-commerce com carrinho de compras, eventos e manipulação do DOM.
+
+- **Sistema de Cadastro de Alunos (CRUD)**  
+  Aplicação para cadastro, edição e remoção de alunos, com validações básicas.
+
+---
+
+## 🛠 Tecnologias utilizadas
 
 - HTML5  
 - CSS3  
 - JavaScript (Vanilla JS)  
-- Git / GitHub  
-
-## Acesse o portfólio online
-
-🌐 [Clique aqui para ver o portfólio](https://allan-carneiro.github.io/portfolio-frontend/)
+- Git & GitHub  
 
 ---
 
-**Autor:** Allan Douglas – Estudante e desenvolvedor em formação
+## 👨‍💻 Autor
+
+**Allan Douglas**  
+Estudante de Análise e Desenvolvimento de Sistemas  
+Desenvolvedor Front-end em formação
+
+🔗 GitHub: https://github.com/allan-carneiro
